@@ -1,0 +1,6 @@
+
+-- loadstring(game:HttpGet("https://raw.githubusercontent.com/BONTOHOBO/BUtter-gui-1-13-23-5-31-pm/main/Butter%20gui%201/13/butter%20gui", true))() 
+
+---- origan https://raw.githubusercontent.com/Butterisgood/butter-hub/main/Butterhub.txt
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Butterisgood/butter-hub/main/Butterhub.txt", true))() 
